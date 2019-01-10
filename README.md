@@ -1,5 +1,5 @@
 # secret-app
-This is a demo project created to illustrate securing file protecting in xcode project.
+This is a demo project created to illustrate secure sensitive swift file in xcode project.
 
 The write-up about this will be available in : https://medium.com/@rajeshbeats/tips-on-xcode-project-continuous-integration-using-teamcity-49ad8d74c93e
 
